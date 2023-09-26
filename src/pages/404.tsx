@@ -1,8 +1,4 @@
-import Layout from '@/components/global/Layout';
-import LatestBundlesComponent from '@/views/recentBundles/Bundles';
-import { useConfig } from '@/context/config';
-import router from 'next/router';
-import React, { ReactElement } from 'react';
+import React from 'react';
 import { useEffect } from 'react';
 import Footer from '@/components/global/footer/Footer';
 import Navbar from '@/components/global/navbar/Navbar';
